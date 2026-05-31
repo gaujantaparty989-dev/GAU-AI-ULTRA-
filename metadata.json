@@ -1,0 +1,10 @@
+{
+  "name": "GOW AI ULTRA",
+  "description": "A web application that generates code for other apps and websites in real-time using AI. Users can describe the app they want, watch the code being generated, and then see a preview.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
